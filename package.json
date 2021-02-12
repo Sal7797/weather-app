@@ -14,6 +14,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sal7797/weather-app.git"
+  },
   "description": "## Overview This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
   "main": "server.js",
   "keywords": [],
